@@ -28,9 +28,11 @@ url: "https://blog.lennonbaird.com" # the base hostname & protocol for your site
 yat:
   date_format: "%Y-%m-%d %H:%M"
 # Build settings
-theme: jekyll-theme-yat
+theme: minima
 
 sitemap: true
+
+show_excerpts: true
 
 plugins:
   - jekyll-feed
