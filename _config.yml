@@ -21,7 +21,7 @@
 title: A blog for the Lennon Baird family
 email: jeffreybaird@hey.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A place for me to share information about my family and my life without social media companies owning it all.
+  A place for us to share information about our life with our friends and family.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://blog.lennonbaird.com" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -31,6 +31,11 @@ yat:
 theme: minima
 
 sitemap: true
+
+header_pages:
+  - index.md
+  - about.md
+  - resume.md
 
 show_excerpts: true
 
