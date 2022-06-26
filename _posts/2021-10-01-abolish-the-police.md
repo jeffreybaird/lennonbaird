@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Abolish the Police?
+author: Jeffrey Baird
 date: 2021-10-01 00:00 +0000
+category: police crime politics
 ---
 What I Got Wrong About Police Abolition
 

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: The End of Roe
+author: Jeffrey Baird
 date: 2022-05-03 00:00 +0000
+category: politics abortion
 ---
 I grew up in a very pro-life household.
 

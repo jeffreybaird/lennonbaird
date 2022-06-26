@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Roe v. Wade"
+author: Jeffrey Baird
 date:   2022-06-25 13:11:54 -0400
 categories: politics
 ---
