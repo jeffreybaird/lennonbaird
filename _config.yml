@@ -35,7 +35,6 @@ sitemap: true
 header_pages:
   - index.md
   - about.md
-  - resume.md
 
 show_excerpts: true
 
