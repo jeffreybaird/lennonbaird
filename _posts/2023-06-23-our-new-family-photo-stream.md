@@ -83,7 +83,7 @@ If you're interested in the specifics, or you want to try deploying your own ver
 
 ## Concluding Thoughts
 
-Creating this photo stream was an excellent opportunity to delve deeper into several AWS services such as AWS Lambda, S3, and API Gateway, and how they can work together. While the road had its challenges, it also provided a rich learning experience and resulted in a successful and cost-effective project.
+Creating this photo stream was an excellent opportunity to delve deeper into several AWS services such as AWS Lambda, S3, and API Gateway, and how they can work together. The code itself was pretty easy to set up. The real challenge was setting up DNS and SSL certificates. But, that is out of the scope of this post.
 
 This architecture worked for my use-case, and I thoroughly enjoyed putting all the pieces together. I hope this walkthrough inspires anyone looking to leverage these AWS services for a similar project.
 
