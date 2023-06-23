@@ -4,7 +4,7 @@ title: Our New Family Photo Stream
 date: 2023-06-23 10:31 -0400
 description: Building a cost-effective and efficient solution for a family photo stream, leveraging AWS services like Lambda, S3, and API Gateway. We detailed the process of server-side and client-side pagination, and how these components work together to provide seamless photo streaming, with the complete code available on GitHub for further exploration.
 ---
-Hello folks! I've recently transitioned my family photo stream from a setup involving PhotoPrism hosted on Digital Ocean (costing around $60/month), to a solution employing AWS services. This journey started as a professional venture where I experimented with AWS Lambdas and API Gateway. As it turns out, these technologies are quite handy in not just streamlining backend operations, but also driving down costs.
+I've recently transitioned my family photo stream from a setup involving PhotoPrism hosted on Digital Ocean (costing around $60/month), to a solution employing AWS services. This journey started as a professional venture where I experimented with AWS Lambdas and API Gateway. As it turns out, these technologies are quite handy in not just streamlining backend operations, but also driving down costs.
 
 ## AWS Lambdas and API Gateway: The Dynamic Duo
 

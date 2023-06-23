@@ -13,4 +13,4 @@ We aren't a huge fan of social media, so you can just view this as our combined 
 
 I'm not sure how much Clare will be writing on here, but I will be sporadically posting things.
 
-If you want to see pictures of our family, you can visit our [Photo Page](https://photos.lennonbaird.com/s/album/public).
+If you want to see pictures of our family, you can visit our [Photo Page](https://photos.lennonbaird.com).
