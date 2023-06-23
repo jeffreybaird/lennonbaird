@@ -4,15 +4,15 @@ title: Our New Family Photo Stream
 date: 2023-06-23 10:31 -0400
 description: Building a cost-effective and efficient solution for a family photo stream, leveraging AWS services like Lambda, S3, and API Gateway. We detailed the process of server-side and client-side pagination, and how these components work together to provide seamless photo streaming, with the complete code available on GitHub for further exploration.
 ---
-I've recently transitioned my family photo stream from a setup involving PhotoPrism hosted on Digital Ocean (costing around $60/month), to a solution employing AWS services. This journey started as a professional venture where I experimented with AWS Lambdas and API Gateway. As it turns out, these technologies are quite handy in not just streamlining backend operations, but also driving down costs.
+I've recently transitioned my family photo stream from a setup involving PhotoPrism hosted on Digital Ocean (costing around $60/month), to a solution employing AWS services. At Skillshare we've been using Lambdas more and more and I was looking for a way to utilize them on my personal projects.
 
-## AWS Lambdas and API Gateway: The Dynamic Duo
+## AWS Lambdas and API Gateway
 
 AWS Lambda is a compute service that lets you run code without worrying about servers. In tandem with API Gateway, you can build a serverless backend, which can operate based on event triggers. For our case, the event was the request for photos from my frontend, which would then invoke the Lambda function through the API Gateway.
 
 API Gateway acts as a traffic conductor, routing requests, transforming protocols, keeping tabs on calls, and ensuring secure connectivity between your backend services and APIs exposed to your app.
 
-## Joining Forces: Lambda, S3 and API Gateway
+## Lambda, S3 and API Gateway
 
 The central architecture of my app revolves around AWS Lambda, S3, and API Gateway.
 
